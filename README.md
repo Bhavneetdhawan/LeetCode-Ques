@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0500-keyboard-row) |
 | [0804-unique-morse-code-words](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0804-unique-morse-code-words) |
+| [1189-maximum-number-of-balloons](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/1189-maximum-number-of-balloons) |
 ## Linked List
 |  |
 | ------- |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0500-keyboard-row) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0804-unique-morse-code-words](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0804-unique-morse-code-words) |
+| [1189-maximum-number-of-balloons](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/1189-maximum-number-of-balloons) |
 ## Sliding Window
 |  |
 | ------- |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0561-array-partition](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0561-array-partition) |
 | [1051-height-checker](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/1051-height-checker) |
+| [1189-maximum-number-of-balloons](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/1189-maximum-number-of-balloons) |
 ## Binary Search
 |  |
 | ------- |
