@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1480-running-sum-of-1d-array](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/1732-find-the-highest-altitude) |
+| [1833-maximum-ice-cream-bars](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/1833-maximum-ice-cream-bars) |
 ## Hash Table
 |  |
 | ------- |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0409-longest-palindrome) |
 | [0561-array-partition](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0561-array-partition) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1833-maximum-ice-cream-bars](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/1833-maximum-ice-cream-bars) |
 ## Sorting
 |  |
 | ------- |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1833-maximum-ice-cream-bars](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/1833-maximum-ice-cream-bars) |
 ## Counting Sort
 |  |
 | ------- |
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/1189-maximum-number-of-balloons) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1833-maximum-ice-cream-bars](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/1833-maximum-ice-cream-bars) |
 ## Binary Search
 |  |
 | ------- |
