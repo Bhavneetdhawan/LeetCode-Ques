@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3668-restore-finishing-order](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/3668-restore-finishing-order) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/3674-minimum-operations-to-equalize-array) |
 | [3838-weighted-word-mapping](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/3838-weighted-word-mapping) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Hash Table
 |  |
 | ------- |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0463-island-perimeter) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -353,4 +355,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3674-minimum-operations-to-equalize-array](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/3674-minimum-operations-to-equalize-array) |
+## Graph Theory
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
