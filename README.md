@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/1833-maximum-ice-cream-bars) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2942-find-words-containing-character](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/2942-find-words-containing-character) |
 ## Hash Table
 |  |
 | ------- |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2942-find-words-containing-character](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/2942-find-words-containing-character) |
 ## Sliding Window
 |  |
 | ------- |
