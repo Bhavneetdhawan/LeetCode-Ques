@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0804-unique-morse-code-words](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0804-unique-morse-code-words) |
 | [1189-maximum-number-of-balloons](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/1189-maximum-number-of-balloons) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/1221-split-a-string-in-balanced-strings) |
 ## Sliding Window
 |  |
 | ------- |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0409-longest-palindrome) |
 | [0561-array-partition](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0561-array-partition) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/1221-split-a-string-in-balanced-strings) |
 ## Sorting
 |  |
 | ------- |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0561-array-partition) |
 | [1051-height-checker](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/1051-height-checker) |
 | [1189-maximum-number-of-balloons](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/1189-maximum-number-of-balloons) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/1221-split-a-string-in-balanced-strings) |
 ## Binary Search
 |  |
 | ------- |
