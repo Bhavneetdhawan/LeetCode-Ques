@@ -295,4 +295,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0496-next-greater-element-i) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
