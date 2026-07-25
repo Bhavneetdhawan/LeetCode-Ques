@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0500-keyboard-row) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0804-unique-morse-code-words](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0804-unique-morse-code-words) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/1189-maximum-number-of-balloons) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1544-make-the-string-great](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/1544-make-the-string-great) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0409-longest-palindrome) |
 | [0561-array-partition](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0561-array-partition) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1833-maximum-ice-cream-bars](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/1833-maximum-ice-cream-bars) |
 ## Sorting
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0145-binary-tree-postorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0682-baseball-game) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1544-make-the-string-great](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/1544-make-the-string-great) |
 | [2000-reverse-prefix-of-word](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/2000-reverse-prefix-of-word) |
 ## Heap (Priority Queue)
@@ -339,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0496-next-greater-element-i) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Enumeration
 |  |
 | ------- |
