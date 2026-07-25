@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0500-keyboard-row) |
 | [0561-array-partition](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0561-array-partition) |
+| [0682-baseball-game](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0682-baseball-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0145-binary-tree-postorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0682-baseball-game) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0412-fizz-buzz) |
+| [0682-baseball-game](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0682-baseball-game) |
 ## Binary Search Tree
 |  |
 | ------- |
