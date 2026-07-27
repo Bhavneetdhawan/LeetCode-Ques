@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/1833-maximum-ice-cream-bars) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/1833-maximum-ice-cream-bars) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 ## Counting Sort
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0023-merge-k-sorted-lists) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Merge Sort
 |  |
