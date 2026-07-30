@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0389-find-the-difference) |
+| [1009-complement-of-base-10-integer](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/1009-complement-of-base-10-integer) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/3674-minimum-operations-to-equalize-array) |
 ## Recursion
 |  |
