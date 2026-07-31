@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3895-count-digit-appearances](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/3895-count-digit-appearances) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3668-restore-finishing-order](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/3668-restore-finishing-order) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/3674-minimum-operations-to-equalize-array) |
 | [3838-weighted-word-mapping](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/3838-weighted-word-mapping) |
+| [3895-count-digit-appearances](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/3895-count-digit-appearances) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Hash Table
 |  |
