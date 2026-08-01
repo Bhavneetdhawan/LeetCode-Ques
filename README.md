@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3838-weighted-word-mapping](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/3838-weighted-word-mapping) |
 | [3895-count-digit-appearances](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/3895-count-digit-appearances) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/3898-find-the-degree-of-each-vertex) |
+| [3925-concatenate-array-with-reverse](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
 | ------- |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3838-weighted-word-mapping](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/3838-weighted-word-mapping) |
+| [3925-concatenate-array-with-reverse](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/3925-concatenate-array-with-reverse) |
 ## Binary Search Tree
 |  |
 | ------- |
