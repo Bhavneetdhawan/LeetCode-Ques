@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/3668-restore-finishing-order) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/3674-minimum-operations-to-equalize-array) |
+| [3731-find-missing-elements](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/3731-find-missing-elements) |
 | [3838-weighted-word-mapping](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/3838-weighted-word-mapping) |
 | [3895-count-digit-appearances](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/3895-count-digit-appearances) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3668-restore-finishing-order](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/3668-restore-finishing-order) |
+| [3731-find-missing-elements](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/3731-find-missing-elements) |
 ## Linked List
 |  |
 | ------- |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/1833-maximum-ice-cream-bars) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [3731-find-missing-elements](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/3731-find-missing-elements) |
 ## Counting Sort
 |  |
 | ------- |
