@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0463-island-perimeter) |
 | [0496-next-greater-element-i](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0500-keyboard-row) |
+| [0506-relative-ranks](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0682-baseball-game) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0414-third-maximum-number) |
+| [0506-relative-ranks](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0977-squares-of-a-sorted-array) |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0023-merge-k-sorted-lists) |
+| [0506-relative-ranks](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0506-relative-ranks) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Merge Sort
