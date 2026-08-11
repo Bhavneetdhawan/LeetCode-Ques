@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0389-find-the-difference) |
+| [0832-flipping-an-image](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0832-flipping-an-image) |
 | [1009-complement-of-base-10-integer](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/1009-complement-of-base-10-integer) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/3674-minimum-operations-to-equalize-array) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0682-baseball-game) |
 | [0804-unique-morse-code-words](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0804-unique-morse-code-words) |
+| [0832-flipping-an-image](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0832-flipping-an-image) |
 | [0977-squares-of-a-sorted-array](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0349-intersection-of-two-arrays) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0832-flipping-an-image](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0832-flipping-an-image) |
 | [0977-squares-of-a-sorted-array](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0977-squares-of-a-sorted-array) |
 | [2000-reverse-prefix-of-word](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/2000-reverse-prefix-of-word) |
 ## Dynamic Programming
@@ -350,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0682-baseball-game) |
+| [0832-flipping-an-image](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0832-flipping-an-image) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3838-weighted-word-mapping](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/3838-weighted-word-mapping) |
@@ -377,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0463-island-perimeter) |
+| [0832-flipping-an-image](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0832-flipping-an-image) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Monotonic Stack
 |  |
