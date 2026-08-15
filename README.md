@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0268-missing-number) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0141-linked-list-cycle](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0242-valid-anagram) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0268-missing-number) |
@@ -294,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0169-majority-element) |
 | [0561-array-partition](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0561-array-partition) |
 | [1051-height-checker](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/1051-height-checker) |
 | [1189-maximum-number-of-balloons](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/1189-maximum-number-of-balloons) |
@@ -315,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0023-merge-k-sorted-lists) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0169-majority-element) |
 ## Trie
 |  |
 | ------- |
@@ -425,4 +430,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0459-repeated-substring-pattern) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
