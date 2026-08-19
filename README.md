@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/3668-restore-finishing-order) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/3674-minimum-operations-to-equalize-array) |
+| [3701-compute-alternating-sum](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/3701-compute-alternating-sum) |
 | [3731-find-missing-elements](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/3731-find-missing-elements) |
 | [3838-weighted-word-mapping](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/3838-weighted-word-mapping) |
 | [3895-count-digit-appearances](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/3895-count-digit-appearances) |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0832-flipping-an-image) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3701-compute-alternating-sum](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/3701-compute-alternating-sum) |
 | [3838-weighted-word-mapping](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/3838-weighted-word-mapping) |
 | [3925-concatenate-array-with-reverse](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/3925-concatenate-array-with-reverse) |
 ## Binary Search Tree
