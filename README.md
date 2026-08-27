@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3146-permutation-difference-between-two-strings](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/3146-permutation-difference-between-two-strings) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3668-restore-finishing-order](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/3668-restore-finishing-order) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/2942-find-words-containing-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3110-score-of-a-string](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/3110-score-of-a-string) |
+| [3146-permutation-difference-between-two-strings](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/3146-permutation-difference-between-two-strings) |
 | [3280-convert-date-to-binary](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/3280-convert-date-to-binary) |
 | [3838-weighted-word-mapping](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/3838-weighted-word-mapping) |
 ## Sliding Window
