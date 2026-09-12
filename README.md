@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0069-sqrtx) |
 | [0171-excel-sheet-column-number](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0171-excel-sheet-column-number) |
 | [0268-missing-number](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0342-power-of-four) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -476,4 +478,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0455-assign-cookies) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
