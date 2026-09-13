@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0171-excel-sheet-column-number) |
 | [0268-missing-number](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0342-power-of-four) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -482,4 +484,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0069-sqrtx) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
