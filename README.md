@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0415-add-strings) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0836-rectangle-overlap) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3280-convert-date-to-binary](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/3280-convert-date-to-binary) |
