@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/3146-permutation-difference-between-two-strings) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3668-restore-finishing-order](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/3668-restore-finishing-order) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/3731-find-missing-elements) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3110-score-of-a-string](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/3110-score-of-a-string) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/3146-permutation-difference-between-two-strings) |
 | [3280-convert-date-to-binary](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/3280-convert-date-to-binary) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3838-weighted-word-mapping](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/3838-weighted-word-mapping) |
 ## Sliding Window
 |  |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1833-maximum-ice-cream-bars](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/1833-maximum-ice-cream-bars) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Binary Search
 |  |
 | ------- |
