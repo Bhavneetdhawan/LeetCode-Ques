@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1544-make-the-string-great](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1768-merge-strings-alternately](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/1768-merge-strings-alternately) |
 | [1816-truncate-sentence](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/1816-truncate-sentence) |
 | [2000-reverse-prefix-of-word](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0832-flipping-an-image](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0832-flipping-an-image) |
 | [0977-squares-of-a-sorted-array](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0977-squares-of-a-sorted-array) |
+| [1768-merge-strings-alternately](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/1768-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/2000-reverse-prefix-of-word) |
 ## Dynamic Programming
 |  |
