@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/1189-maximum-number-of-balloons) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2325-decode-the-message](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/2325-decode-the-message) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/3146-permutation-difference-between-two-strings) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2325-decode-the-message](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/2325-decode-the-message) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2942-find-words-containing-character](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/2942-find-words-containing-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
