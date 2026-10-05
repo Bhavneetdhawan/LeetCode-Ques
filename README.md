@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/1480-running-sum-of-1d-array) |
+| [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1534-count-good-triplets](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/1534-count-good-triplets) |
 | [1672-richest-customer-wealth](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/1732-find-the-highest-altitude) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Greedy
 |  |
 | ------- |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0561-array-partition) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/1833-maximum-ice-cream-bars) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Sorting
@@ -395,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0682-baseball-game) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1544-make-the-string-great](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/2000-reverse-prefix-of-word) |
@@ -461,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0496-next-greater-element-i) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Enumeration
 |  |
 | ------- |
