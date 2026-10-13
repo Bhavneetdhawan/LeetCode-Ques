@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/1480-running-sum-of-1d-array) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1534-count-good-triplets](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/1534-count-good-triplets) |
+| [1652-defuse-the-bomb](https://github.com/Bhavneetdhawan/LeetCode-Ques/tree/master/1652-defuse-the-bomb) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/1732-find-the-highest-altitude) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0219-contains-duplicate-ii](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0219-contains-duplicate-ii) |
+| [1652-defuse-the-bomb](https://github.com/Bhavneetdhawan/LeetCode-Ques/tree/master/1652-defuse-the-bomb) |
 ## Two Pointers
 |  |
 | ------- |
