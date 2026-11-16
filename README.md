@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Bhavneetdhawan/LeetCode-Ques/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Bhavneetdhawan/LeetCode-Ques/tree/master/0037-sudoku-solver) |
 | [0066-plus-one](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/Bhavneetdhawan/LeetCode-Ques/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Bhavneetdhawan/LeetCode-Ques/tree/master/0037-sudoku-solver) |
 | [0141-linked-list-cycle](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Bhavneetdhawan/LeetCode-Ques/tree/master/0205-isomorphic-strings) |
@@ -421,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/Bhavneetdhawan/LeetCode-Ques/tree/master/0037-sudoku-solver) |
 | [0093-restore-ip-addresses](https://github.com/Bhavneetdhawan/LeetCode-Ques/tree/master/0093-restore-ip-addresses) |
 | [0257-binary-tree-paths](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0257-binary-tree-paths) |
 ## Stack
@@ -495,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Bhavneetdhawan/LeetCode-Ques/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Bhavneetdhawan/LeetCode-Ques/tree/master/0037-sudoku-solver) |
 | [0463-island-perimeter](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0463-island-perimeter) |
 | [0832-flipping-an-image](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0832-flipping-an-image) |
 | [1672-richest-customer-wealth](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/1672-richest-customer-wealth) |
@@ -564,4 +568,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Bhavneetdhawan/LeetCode-Ques/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Bhavneetdhawan/LeetCode-Ques/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
