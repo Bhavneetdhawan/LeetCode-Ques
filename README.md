@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/Bhavneetdhawan/LeetCode-Ques/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0415-add-strings) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/Bhavneetdhawan/LeetCode-Ques/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0832-flipping-an-image](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0832-flipping-an-image) |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0392-is-subsequence](https://github.com/Bhavneetdhawan/LeetCode-Ques/tree/master/0392-is-subsequence) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Greedy
 |  |
